@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hakuna Matata! What a wonderful phrase?
 Use the left arrow to go back!
